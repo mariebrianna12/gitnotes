@@ -12,6 +12,9 @@ git merge <branchName>
 git log
 git diff
 git rest --hard <optional id>
+git tag -a '<semver>' -m '<msg>'
+git tag
+git reflog
 ```
 > other notes
 
